@@ -71,5 +71,5 @@ Los scripts transforman 6 columnas con unidades mezcladas en texto a valores num
  
 ¿Quieres ver el proceso detallado, los hallazgos y el razonamiento detrás de cada decisión?
  
-**👉 [Lee el artículo completo en omargpax.vercel.app](https://omargpax.vercel.app/post/power-bi-intermedio-cars-corp)**
+**👉 [Lee el artículo completo en omargpax.vercel.app](https://omargpax.vercel.app/posts/power-bi-intermedio-cars-corp)** 
  
